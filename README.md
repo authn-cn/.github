@@ -1,8 +1,22 @@
-# authn-cn/.github
+# authn-cn — Auth & Identity Services (GitHub Config)
 
-Shared GitHub configuration for the authn-cn organization: issue templates, labels, and other common settings.
+Organization-level shared configuration for the **authn-cn** GitHub organization.
+
+## Scope
+
+This repository contains:
+
+- Issue templates (bug report, feature request, general)
+- Contributing guidelines
+- Repository metadata
 
 ## Projects
 
-- [authn-mock](https://github.com/authn-cn/authn-mock) — Mock OIDC OP & SAML IdP (Cloudflare Workers)
-- [docs-site](https://github.com/authn-cn/authn-cn.github.io) — Documentation site (VuePress, multi-language)
+| Project | Description |
+|---------|-------------|
+| [authn-mock](https://github.com/authn-cn/authn-mock) | Mock OIDC OP & SAML IdP (Cloudflare Workers), test/dev only |
+| [docs-site](https://github.com/authn-cn/authn-cn.github.io) | Documentation site (VuePress, multi-language: zh/en/de) |
+
+## License
+
+[ISC](LICENSE) — Free for any use.

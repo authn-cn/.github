@@ -1,28 +1,28 @@
 ## Bug Report
 
-**Component:** (authn-mock / docs-site / others)
+**Component:** (authn-mock / docs-site)
 
-**Describe the bug**
+### Describe the bug
 
+A clear and concise description of what the bug is.
 
-**To Reproduce**
+### Steps to reproduce
 
-Steps to reproduce the behavior:
+1. Go to: ...
+2. Click on '...'
+3. See error
 
-1.
-2.
-3.
+### Expected behavior
 
-**Expected behavior**
+What did you expect to happen?
 
-
-
-**Screenshots**
+### Screenshots
 
 _If applicable, add screenshots here._
 
-**Environment**
+### Environment / Configuration
 
-- OS:
-- Node/npm/pnpm:
-- Related service (e.g. Cloudflare Workers):
+- **OS**:
+- **Browser/Client** (docs-site):
+- **Node/npm/pnpm version** (authn-mock):
+- **Worker deployed URL** (if relevant):

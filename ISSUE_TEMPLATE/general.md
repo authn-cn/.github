@@ -1,12 +1,14 @@
-## Description
+## General Issue / Discussion
 
-Brief description of the issue or feature request.
+### Description
+
+Brief description of the topic, question, or discussion point.
 
 ### Context (if applicable)
 
 Relevant environment info: OS, browser, related repo / service.
 
-### Steps to reproduce / Screenshot (if bug)
+### Steps to reproduce / Screenshot (if bug-related)
 
 1.
 
@@ -17,5 +19,6 @@ Relevant environment info: OS, browser, related repo / service.
 ### Expected behavior
 
 
-
 ### Actual behavior
+
+
