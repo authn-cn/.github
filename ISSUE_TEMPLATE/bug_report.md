@@ -1,6 +1,7 @@
 ## Bug Report
 
 **Component:** (authn-mock / docs-site)
+**Affected language(s):** zh / en / de
 
 ### Describe the bug
 
@@ -16,13 +17,14 @@ A clear and concise description of what the bug is.
 
 What did you expect to happen?
 
-### Screenshots
+### Screenshots / Logs
 
-_If applicable, add screenshots here._
+_If applicable, add screenshots or log output here._
 
 ### Environment / Configuration
 
 - **OS**:
-- **Browser/Client** (docs-site):
+- **Browser** (docs-site):
 - **Node/npm/pnpm version** (authn-mock):
-- **Worker deployed URL** (if relevant):
+- **Worker deployed URL** (authn-mock):
+- **Screen size** (desktop / mobile?):

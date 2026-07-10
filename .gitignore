@@ -6,22 +6,7 @@ Thumbs.db
 *.patch
 *.tar.gz
 
-# Node / npm
-node_modules/
-.npm
-package-lock.json
-pnpm-lock.yaml
-
-# VuePress
-docs/.vuepress/.temp/
-docs/.vuepress/.cache/
-docs/.vuepress/dist/
-
-# Cloudflare Workers / Wrangler
-.dist/
-.wrangler/
-.env*
-
 # Build output
 dist/
 build/
+*.log

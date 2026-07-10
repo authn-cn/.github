@@ -1,6 +1,7 @@
 ## Feature Request
 
 **Component:** (authn-mock / docs-site)
+**Type of enhancement:** (new feature / improvement / localization)
 
 ### Is your feature request related to a problem?
 
@@ -14,4 +15,6 @@ A clear and concise description of what you want to happen.
 
 Any alternative solutions or features you've considered.
 
-### Additional context
+### Additional context / Screenshots
+
+Add any other context, mockups, or screenshots about the feature request here.
